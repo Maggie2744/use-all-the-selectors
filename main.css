@@ -17,3 +17,7 @@ ul {
 h1.logo {
   text-transform: uppercase;
 }
+
+main.wrapper {
+  background-color: #eee8d5;
+}
